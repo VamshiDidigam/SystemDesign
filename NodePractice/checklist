@@ -1,0 +1,136 @@
+HLD and API design
+
+
+DS Algo
+1. tree and BFS related algorithm. 
+2. median of linked list
+3. Group Anagrams
+4. snake and ladder
+5. K largest elements in array
+6. DP based longest magical sequence question
+7. Maximum Longest Pallindrom Subsequence 
+8. Find all subsequences with sum equals to K
+9. Compare 2 strings in form of linked list each
+10. Compare 2 numbers in form of linked list
+11. table booking questions
+12. max heap based question
+13. length of longest substring without repeating characters
+14. Find first missing positive integer from an array for non-negative integers.
+15. Given list of strings group them into distinct anagrams
+16. Find least common ancestor of a binary tree.
+17. Minimum weight to reach bottom right corner in matrix starting from top left. you can move only down and right
+
+System Design
+1. Design rate limiter (again medium design problem ) *2 - Design a rate limiting algorithm (condensed to token nbucket)
+2. Take an existing low fi feature and rebuild it in a constrained period of time.
+3. technical questions related to hashing and API design
+4. Implement Priority queue .
+5. Design Pizza delivery management system.
+6. Stock Market Design
+8. Attendance Management System
+9. Inventory Service Design
+10. course scheduler
+11. design git class which offers commit,log ,status and branch operations.
+12. Design Whatsapp/ Designing a messenger system.
+13. alerting and escalation system
+14. chess game
+16. Design a parking lot
+
+
+DB 
+1. 3rd highest salary in SQL table
+2. database design for ecommerce website *2  - design ecommerce DB for product catalogue, order history, inventory
+3. design twitter table schema
+4. Design a system, that filters and aggregates data in the given time ranges, aggregations, filtering, and storage.
+5. Find the second max from the table
+6. Clustered and Non-Clustered Index.
+7. Design review system data pipeline
+8. What are ACID properties
+9. What is a transaction
+10. Design Schema for restaurant apps like Zomato. *2
+11. Difference between sql and no sql database
+12. DB Design: Betting application
+
+
+
+Technical
+1. core java
+2. unchecked exceptions, error handling etc
+3. super class and sub class
+4. Describe the architecture of spring boot
+5. What is hashing and how to solve its collisions.
+6. API related question for 2 huge DB table comparisons
+7. REST
+8. How is data sent when in ETL pipeline
+9. What are the different types of Garbage collectors
+10. Java memory management
+11. Kerberos
+12. Out of Memory
+13. producer consumer problem of thread
+14. JVM questions, memory model, GC, immutable
+15. How you do code review?
+16. What is a semaphore ?
+17. How to achieve multitasking in java
+18. Hashing and collision in hashing
+
+
+
+Puzzles
+1. one puzzle was there of 4 people wanting to cross the bridge but they have only 1 lantern.
+
+
+
+Third was Director round . He asked me to explain my whole start up architecture High level design. Most critical issues that i have solved.
+
+discussed all aspects involved in software development like Hardware Estimation, Data Model, DB choice, AppServer, Caching, Rest API etc
+
+Management, best practices, solid principles, containers, deployment strategies, review guide lines, motivation, learning new things, whats the most recent topic you learned.
+
+mostly on current experience, architectures, design, databases, concurrency, technology-specific, latest version changes.
+
+**
+https://medium.com/@vibhor2611/interview-experience-with-arcesium-8-years-3a15a0a97796
+
+
+
+
+
+
+material
+1. https://www.scaler.com/academy/mentee-dashboard/class/2619/session?navref=cl_tb_br
+
+
+
+SCHEMA DESIGN SESSION
+SCHEMA DESIGN ASSIGNMENT 2
+SCHEMA PROBLEM DISCUSSION SESSION
+
+LOW-LEVEL DESIGN: SCHEMA DESIGN - ok
+LLD (SCHEMA DESIGN II) -ok
+
+SYSTEM DESIGN A, B, C, D -ok
+
+SYSTEM DESIGN V - SHARDING AND MORE ABOUT STORAGE
+
+HASHING I
+HASHING II
+
+BACKTRACKING 1
+BACKTRACKING 2
+
+
+
+HOTSTAR PERSONALIZATION
+
+https://www.youtube.com/watch?v=b2F-DItXtZs&ab_channel=gar1t
+
+
+
+token bucket
+leaky bucket
+
+fixed window counter
+
+sliding logs
+
+sliding windows counter
